@@ -18,33 +18,33 @@ power-ports:
     allocated_draw: 102
 interfaces:
   - name: eth0
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: eth1
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: eth2
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: eth3
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: eth4
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: eth5
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: eth6
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: eth7
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: eth8
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: eth9
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: eth10
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: eth11
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: sfp12
-    type: 1gbase-x-sfp
+    type: 1000base-x-sfp
   - name: sfp13
-    type: 1gbase-x-sfp
+    type: 1000base-x-sfp
   - name: sfp14
     type: 10gbase-x-sfpp
   - name: sfp15
